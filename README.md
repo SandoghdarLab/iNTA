@@ -1,6 +1,6 @@
 # iNTA analysis procedure. Tutorial.
 
-This notebook will describe the basics of iNTA analysis, starting with raw videos and ending with a plot in which particle iSCAT contrast$^{1/3}$ is plotted vs. particle size. It will be run on an example dataset, in which liposomes were recorded diffusing in water over 1 second. The total time to run this tutorial is about 2 minutes.
+This notebook will describe the basics of iNTA analysis, starting with raw videos and ending with a plot in which particle iSCAT <img src="https://render.githubusercontent.com/render/math?math=\mathrm{contrast}^{1/3}"> is plotted vs. particle size. It will be run on an example dataset, in which liposomes were recorded diffusing in water over 1 second. The total time to run this tutorial is about 2 minutes.
 
 The Jupyter notebook together with the required data can be downloaded at [GitHub](https://github.com/anyakash87/iNTA/releases/download/v1.0/iNTA_tutorial.zip) as a single archive.
 
