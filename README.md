@@ -1,2 +1,2 @@
-# iNTA-
+# iNTA
 iNTA analysis pipeline
